@@ -1,1 +1,1 @@
-## implement simple UDP server and client side communication using socket module in python
+## implement simple UDP server and client side (in house communication) using socket module in python
